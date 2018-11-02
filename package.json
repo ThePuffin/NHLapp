@@ -1,0 +1,11 @@
+{
+  "name": "nhl_app",
+  "version": "1.0.0",
+  "description": "A application to get stats about nhl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vincent Ballut",
+  "license": "ISC"
+}
